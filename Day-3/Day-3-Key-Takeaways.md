@@ -395,6 +395,7 @@ Memory 2: "Prefers Slack communication"
 #### **3. Temporal Decay**
 
 Reduce importance of old memories
+
 ```python
 def calculate_relevance(memory):
     base_score = memory.importance
