@@ -1,3 +1,10 @@
+# Week 1 ignored files
 .env
 adk_web.log
 sample_agent
+
+# Week 4 ignored files
+research-agent
+home_automation_agent
+*.json
+logger.log
